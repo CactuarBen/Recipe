@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 45px;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+}
+
+.resize{
+    height:1000px;
+    width:400px;
+    
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
